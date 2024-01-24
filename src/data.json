@@ -1,0 +1,82 @@
+{
+    "head": {
+        "name": "ayoub"
+    },
+    "about":{
+        "img": "imgs/gradi-ayoub.jpg",
+       "text": "Hey there! I'm gradi ayoub, a full-stack developer. I'm fueled by the challenge of turning ideas into reality, transforming lines of code into user-friendly applications using frameworks such as Laravel and VueJS. Though my journey hasn't been peppered with years of experience, my enthusiasm for coding and creating seamless digital experiences is boundless."
+    },
+
+    "projects":[
+      
+        {
+            "id":1,
+            "keyWord": "project1",
+            "title": "social media app",
+            "text": "Harnessing the power of Laravel and Livewire, I developed a dynamic and feature-rich social media web application, seamlessly blending cutting-edge technology with a user-friendly interface. This platform provides users with a vibrant space to connect, share, and engage",
+            "mainImg": "imgs/project1/img1.jpg",
+            "imgs": [
+                "imgs/project1/img1.jpg",
+                "imgs/project1/img2.jpg",
+                "imgs/project1/img3.jpg",
+                "imgs/project1/img4.jpg",
+                "imgs/project1/img5.jpg",
+                "imgs/project1/img6.jpg"
+            ],
+            "codeSrcUrl": "https://github.com/GradiAyoub/social-media-web-app-laravel10-livewire3",
+            "techno": ["html", "css","bootstrap", "laravel", "livewire", "mysql"]
+        },
+        
+        {
+            "id":2,
+            "keyWord": "project2",
+            "title": "weather app",
+            "text": "Experience real-time weather updates with this sleek and intuitive Weather Web App. Built using Vue.js, this project seamlessly integrates powerful functionality with a user-friendly interface. Stay informed about current weather conditions, forecasts, and more, all in a single, responsive application. The app fetches live weather data, providing users with accurate and up-to-date information to plan their days effectively. Elevate your user experience with the combination of Vue.js's reactivity and the reliability of weather data, making this Weather Web App a valuable addition to your daily routine.",
+            "mainImg": "imgs/project2/img1.jpg",
+            "imgs": [
+                "imgs/project2/img1.jpg",
+                "imgs/project2/img2.jpg",
+                "imgs/project2/img3.jpg"
+            ],
+            "codeSrcUrl": "https://github.com/GradiAyoub/weather-app-vue3",
+            "techno": ["html", "css","tailwind", "vue", "weatherApi"]
+        },
+
+        {
+            "id":3,
+            "keyWord": "project3",
+            "title": "Employees management system",
+            "text": "Experience streamlined workforce organization with our Employees Management System built on the Laravel framework. Utilizing the Laravel Failment package, this system introduces a dynamic dashboard for efficient employee tracking and data management. Seamlessly navigate through employee records, performance metrics, and other vital information with the intuitive dashboard. From onboarding to personalized employee profiles, our system simplifies administrative tasks, offering a user-friendly experience. Elevate your organizational efficiency with this secure and scalable Employees Management System, providing a comprehensive solution for managing your workforce.",
+            "mainImg": "imgs/project3/img1.jpg",
+            "imgs": [
+                "imgs/project3/img1.jpg",
+                "imgs/project3/img2.jpg",
+                "imgs/project3/img3.jpg",
+                "imgs/project3/img4.jpg",
+                "imgs/project3/img5.jpg"
+
+            ],
+            "codeSrcUrl": "https://github.com/GradiAyoub/employees-management-system",
+            "techno": ["laravel", "livewire", "filament", "mysql"]
+        },
+        {
+            "id":4,
+            "keyWord": "project4",
+            "title": "todo app",
+            "text": "Empower your productivity with this feature-rich Todo App, crafted with Laravel and Livewire. Tailored to streamline task management, this app provides an intuitive and responsive interface for users to organize their day seamlessly. Leveraging the capabilities of Laravel on the backend and Livewire for real-time updates, the Todo App ensures a dynamic user experience. Enjoy a range of functionalities, including task creation, priority management, and live updates without page reloads. Elevate your task management game with this Laravel and Livewire combination, creating a sophisticated and efficient ",
+            "mainImg": "imgs/project4/img1.jpg",
+            "imgs": [
+                "imgs/project4/img1.jpg",
+                "imgs/project4/img2.jpg"
+            ],
+            "codeSrcUrl": "https://github.com/GradiAyoub?tab=repositories",
+            "techno": ["html", "css","bootstrap", "laravel", "livewire", "mysql"]
+        }
+    
+    ]
+
+  
+
+
+
+}

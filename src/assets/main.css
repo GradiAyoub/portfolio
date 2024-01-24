@@ -1,0 +1,62 @@
+:root {
+  --color1: #F8F9FA;
+  --color2: #00C6B1;
+}
+
+*{
+  margin: 0;
+  font-weight: 500;
+}
+
+body{
+  background: var(--color1);
+}
+
+nav{
+  height: 46px !important;
+}
+
+  nav, #about, #footer,.alertSuccess, .btn, .nav-link {
+    background: var(--color2) !important;
+    color: var(--color1) !important;
+  }
+
+  #hero, #about{
+    min-height: 100vh !important;
+  }
+
+  #about h1, #about p{
+    color: var(--color1) !important; 
+  }
+
+
+  section{
+    padding-top: 80px;
+  }
+
+  #hero h1{
+    font-size: 60px;
+  }
+
+  .sectionTitle{
+    margin-bottom: 40px;
+    color: var(--color2) !important;
+  }
+
+
+  #footer{
+    padding:50px ;
+  }
+
+  .btn{
+    font-size: large !important;
+  }
+
+ 
+.carousel-control-next, .carousel-control-prev{
+    filter: invert(100%);
+}
+
+svg{
+  padding: 1px;
+}
